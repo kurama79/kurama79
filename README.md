@@ -6,6 +6,13 @@ I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics 
 
 ## 🔧 Skills & Tools
 
+### Areas of Expertise
+- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23F80000.svg?style=flat-square&logo=deepmind&logoColor=white) **Artificial Intelligence**
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23E95420.svg?style=flat-square&logo=opencv&logoColor=white) **Computer Vision Algorithms** (Stereo Vision, Visual Odometry with IMU, Visual Control)
+- ![Robotics](https://img.shields.io/badge/Robotics-%2300A1E0.svg?style=flat-square&logo=robot-framework&logoColor=white) **Robotics**
+- ![Motion and Path Planning](https://img.shields.io/badge/Motion%20%26%20Path%20Planning-%2300BFFF.svg?style=flat-square&logo=googlemaps&logoColor=white) **Motion and Path Planning**
+- ![Control Theory](https://img.shields.io/badge/Control%20Theory-%230071C5.svg?style=flat-square&logo=databricks&logoColor=white) **Control Theory** (Classical, State Space, Nonlinear, Optimal, Intelligent)
+
 ### Programming Languages
 - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) **C/C++**
 - ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) **Python**
@@ -27,13 +34,6 @@ I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics 
 ### Tools & Technologies
 - ![Linux Shell](https://img.shields.io/badge/Linux%20Shell-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) **Linux Shell**
 - ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white) **Bash**
-
-### Areas of Expertise
-- ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23F80000.svg?style=flat-square&logo=deepmind&logoColor=white) **Artificial Intelligence**
-- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23E95420.svg?style=flat-square&logo=opencv&logoColor=white) **Computer Vision Algorithms** (Stereo Vision, Visual Odometry with IMU, Visual Control)
-- ![Robotics](https://img.shields.io/badge/Robotics-%2300A1E0.svg?style=flat-square&logo=robot-framework&logoColor=white) **Robotics**
-- ![Motion and Path Planning](https://img.shields.io/badge/Motion%20%26%20Path%20Planning-%2300BFFF.svg?style=flat-square&logo=googlemaps&logoColor=white) **Motion and Path Planning**
-- ![Control Theory](https://img.shields.io/badge/Control%20Theory-%230071C5.svg?style=flat-square&logo=databricks&logoColor=white) **Control Theory** (Classical, State Space, Nonlinear, Optimal, Intelligent)
 
 ## 📫 Get in Touch
 
