@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Luis Enrique Ruiz**, a Ph.D. in Electrical Engineering specializing in robotics and multi-agent systems. Currently, I'm part of **Intel Labs Mexico**'s Human-Robot Collaboration group and volunteer with **Public Invention**. Passionate about advancing collaborative robotics.
+I'm **L. Enrique Ruiz**, a Ph.D. in Electrical Engineering specializing in robotics and multi-agent systems. Currently, I'm part of **Intel Labs Mexico**'s Human-Robot Collaboration group and volunteer with **Public Invention**. Passionate about advancing collaborative robotics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/luis-enrique-ruiz-11b8b7135/)
 
