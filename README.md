@@ -9,8 +9,8 @@ I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics 
 ### Programming Languages
 - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) **C/C++**
 - ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) **Python**
-- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) **C#**
 - ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) **R**
+- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) **C#**
 
 ### Frameworks & Libraries
 - ![ROS1/ROS2](https://img.shields.io/badge/ROS1/ROS2-%233776AB.svg?style=flat-square&logo=ros&logoColor=white) **ROS1/ROS2**
