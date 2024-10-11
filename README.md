@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics and multi-agent systems. I'm currently part of Intel Labs Mexico's Human-Robot Collaboration group and volunteer with Public Invention. I'm passionate about advancing collaborative robotics.
+I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics and multi-agent systems. I'm part of Intel Labs Mexico's Human-Robot Collaboration group and volunteer with Public Invention. I'm passionate about advancing collaborative robotics.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/luis-enrique-ruiz-11b8b7135/)
 
@@ -9,6 +9,8 @@ I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics 
 ### Programming Languages
 - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) **C/C++**
 - ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white) **Python**
+- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) **C#**
+- ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) **R**
 
 ### Frameworks & Libraries
 - ![ROS1/ROS2](https://img.shields.io/badge/ROS1/ROS2-%233776AB.svg?style=flat-square&logo=ros&logoColor=white) **ROS1/ROS2**
@@ -27,6 +29,7 @@ I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics 
 - **Artificial Intelligence**
 - **Computer Vision Algorithms** (Stereo Vision, Visual Odometry with IMU, Visual Control)
 - **Robotics**
+- **Motion and Path Planning**
 
 ## 📫 Get in Touch
 
