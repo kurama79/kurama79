@@ -13,23 +13,27 @@ I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics 
 - ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) **C#**
 
 ### Frameworks & Libraries
-- ![ROS1/ROS2](https://img.shields.io/badge/ROS1/ROS2-%233776AB.svg?style=flat-square&logo=ros&logoColor=white) **ROS1/ROS2**
-- ![Gazebo](https://img.shields.io/badge/Gazebo-%23008080.svg?style=flat-square&logo=gazebo&logoColor=white) **Gazebo**
-- ![ArduPilot](https://img.shields.io/badge/ArduPilot-%23F7931E.svg?style=flat-square&logo=arduino&logoColor=white) **ArduPilot**
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) **TensorFlow**
 - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white) **PyTorch**
 - ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) **Pandas**
+- ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) **OpenCV**
+- ![ROS1/ROS2](https://img.shields.io/badge/ROS1/ROS2-%233776AB.svg?style=flat-square&logo=ros&logoColor=white) **ROS1/ROS2**
+- ![Gazebo](https://img.shields.io/badge/Gazebo-%23008080.svg?style=flat-square&logo=gazebo&logoColor=white) **Gazebo**
+- ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&logo=opengl&logoColor=black) **OpenGL**
+- ![ArduPilot](https://img.shields.io/badge/ArduPilot-%23F7931E.svg?style=flat-square&logo=arduino&logoColor=white) **ArduPilot**
+- ![MATLAB](https://img.shields.io/badge/MATLAB-%23FFB100.svg?style=flat-square&logo=Mathworks&logoColor=white) **MATLAB**
+- ![Simulink](https://img.shields.io/badge/Simulink-%23FF9A00.svg?style=flat-square&logo=Simulink&logoColor=white) **Simulink**
 
 ### Tools & Technologies
 - ![Linux Shell](https://img.shields.io/badge/Linux%20Shell-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) **Linux Shell**
 - ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white) **Bash**
 
 ### Areas of Expertise
-- **Control Theory** (Classical, State Space, Nonlinear, Optimal, Intelligent)
 - **Artificial Intelligence**
 - **Computer Vision Algorithms** (Stereo Vision, Visual Odometry with IMU, Visual Control)
 - **Robotics**
 - **Motion and Path Planning**
+- **Control Theory** (Classical, State Space, Nonlinear, Optimal, Intelligent)
 
 ## 📫 Get in Touch
 
