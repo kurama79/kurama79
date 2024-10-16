@@ -7,9 +7,9 @@ I'm L. Enrique Ruiz, a Ph.D. in Electrical Engineering specializing in robotics 
 ## 🔧 Skills & Tools
 
 ### Areas of Expertise
+- ![Robotics](https://img.shields.io/badge/Robotics-%2300A1E0.svg?style=flat-square&logo=robot-framework&logoColor=white) **Robotics**
 - ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23F80000.svg?style=flat-square&logo=deepmind&logoColor=white) **Artificial Intelligence**
 - ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23E95420.svg?style=flat-square&logo=opencv&logoColor=white) **Computer Vision Algorithms** (Stereo Vision, Visual Odometry, Visual Control)
-- ![Robotics](https://img.shields.io/badge/Robotics-%2300A1E0.svg?style=flat-square&logo=robot-framework&logoColor=white) **Robotics**
 - ![Motion and Path Planning](https://img.shields.io/badge/Motion%20%26%20Path%20Planning-%2300BFFF.svg?style=flat-square&logo=googlemaps&logoColor=white) **Motion and Path Planning**
 - ![Control Theory](https://img.shields.io/badge/Control%20Theory-%230071C5.svg?style=flat-square&logo=databricks&logoColor=white) **Control Theory** (Classical, State Space, Nonlinear, Optimal, Intelligent)
 
